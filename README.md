@@ -1,4 +1,2 @@
-# PracticaWeb
-PracticaClase
+# Web con WordPress
 
-Ya queda nada y menos
